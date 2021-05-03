@@ -2,7 +2,7 @@
 Made a small PVC Greenhouse for my home
 
 
-![Screenshot]()
+![Screenshot](GH1.PNG)
 
-![Screenshot](HackEnsenada.png)
+![Screenshot](GH2.PNG)
 
